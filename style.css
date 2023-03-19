@@ -23,6 +23,7 @@
     color: #502314;
     font-family: 'Lilita One', cursive;
     position: fixed;
+    font-size: 18px;
 
 }
 
@@ -73,14 +74,14 @@ li:hover{
 
 
 .choose-location{
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 200px;
     margin:  0px 30px;
 }
 .choose-location a{
     color: #502314;
     margin: 0 30px;
-    font-size: 14px;
+    font-size: 16px;
     
 }
 .choose-location a:hover {
@@ -95,7 +96,7 @@ li:hover{
     width: 100%;
     height: 100vh;
     display: flex;
-    padding: 80px 90px;
+    padding: 160px 90px;
     justify-content: space-evenly;
 
 }
@@ -170,8 +171,10 @@ font-size: 30px;
 margin-right: 20px;
 cursor: pointer;
 transition: 0.2s all ease;
+color:#F5EBDC;
 }
 
 .right-footer i:hover{
     font-size: 35px;
+    color: aqua;
 }
