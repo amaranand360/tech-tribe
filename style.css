@@ -90,7 +90,7 @@ li:hover{
 /*------------------Header style Ending-------------------------------*/
 
 
-/*------------------Main styling-------------------------------*/
+/*---------------------------------------Main styling-------------------------------*/
 .main-container{
     background-color: #F5EBDC;
     width: 100%;
@@ -152,7 +152,12 @@ cursor: pointer;
 .btn:hover{
     background-color: #d623001a;
 }
+
+
+
+/*---------------------------------FOOTER STYLING------------------------------------*/
 .footer-container{
+    font-family: 'Lilita One', cursive;
     background-color: #2B0200;
     height: 200PX;
     color: #F5EBDC;
@@ -175,6 +180,6 @@ color:#F5EBDC;
 }
 
 .right-footer i:hover{
-    font-size: 35px;
-    color: aqua;
+    font-size: 40px;
+    color: gray;
 }
