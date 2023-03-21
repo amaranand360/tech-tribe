@@ -17,4 +17,3 @@ The workshop was conducted by Tech Tribe Club We teaching data science students 
 - 👏 Acknowledgments
 We'd like to thank all the volunteers and teachers who made this workshop possible. Your support and guidance were instrumental in making this a successful and memorable event for all the participants.
 
-📷Workshop pictures
