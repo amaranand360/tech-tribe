@@ -8,7 +8,7 @@ This is a project created for a workshop where we taught data science students h
 📖 How to Use
 - To use this project, simply clone this repository and open the index.html file in your browser. You can also access the demo by clicking on the link provided above.
 
-👨‍🏫 Workshop Details
+# 👨‍ 🏫 Workshop Details
 The workshop was conducted by Tech Tribe Club We teaching data science students how to build a responsive landing page clone using modern web development tools. The workshop covered the following topics:
 
 - HTML basics and semantic markup
