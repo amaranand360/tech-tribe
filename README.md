@@ -3,7 +3,7 @@
 This is a project created for a workshop where we taught data science students how to build a clone of the Burger King landing page. The workshop focussed on the layout and flexbox properties.
 
 🚀 Project Demo
-- You can view the demo of the Burger King landing page clone by following this link: https://fast-food-web-by-amar.netlify.app/
+- You can view the demo of the Burger King landing page clone by following this link: https://tribe23.tech
 
 📖 How to Use
 - To use this project, simply clone this repository and open the index.html file in your browser. You can also access the demo by clicking on the link provided above.
